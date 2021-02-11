@@ -1,8 +1,4 @@
 Shopping List:
-Apple
-Oren
-Banana
-Brocolli
 Dragonfruit
 Kiwi
 Toilet Rolls
