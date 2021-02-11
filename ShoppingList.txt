@@ -2,6 +2,6 @@ Shopping List:
 Apple
 Oren
 Banana
-Carrot
 Brocolli
 Dragonfruit
+Kiwi
